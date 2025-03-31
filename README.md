@@ -5,6 +5,7 @@
 <p>Desde siempre me ha gustado crear cosas, sin embargo, no tengo la destreza física necesaria, afortunadamente hace unos años empecé a aprender programación y entonces me di cuenta que podía crear cosas si lograba comunicarle a la computadora lo que quería que hiciera.</p>
 
 <h4>¿Qué hago?</h4>
+
 - 🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend)
 
 - 🌱 I’m currently learning **NestJS, Express**

@@ -6,10 +6,10 @@
 
 <h4>¿Qué hago?</h4>
 🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend). Estoy a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador. Me encanta seguir aprendiendo
+🌱 Además continuo desarrollando mis conocimientos sobre **NestJS, Express, JavaScript, TypeScript**
 
-- 🌱 I’m currently learning **NestJS, Express**
-
-- 📫 Como contactarme **omaraguilalira@hotmail.com**
+<h4>Contacto</h4>
+📫 email: **omaraguilalira@hotmail.com**
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>

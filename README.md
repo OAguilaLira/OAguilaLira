@@ -4,6 +4,12 @@
 <h4 align="left">Sobre mí</h4>
 <p>Desde siempre me ha gustado crear cosas, sin embargo, no tengo la destreza física necesaria, afortunadamente hace unos años empecé a aprender programación y entonces me di cuenta que podía crear cosas si lograba comunicarle a la computadora lo que quería que hiciera.</p>
 
+- 🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend)
+
+- 🌱 I’m currently learning **NestJS, Express**
+
+- 📫 Como contactarme **omaraguilalira@hotmail.com**
+
 <h4>¿Qué hago?</h4>
 🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend). 
 <p>Estoy abierto a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador. Me encanta seguir aprendiendo</p>

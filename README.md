@@ -6,7 +6,9 @@
 
 <h4>¿Qué hago?</h4>
 
-- 🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend)
+🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend)
+
+<p>Estoy abierto a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador. Me encanta seguir aprendiendo</p>
 
 - 🌱 I’m currently learning **NestJS, Express**
 

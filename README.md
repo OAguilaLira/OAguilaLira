@@ -8,7 +8,7 @@
 
 🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend)
 
-<p>Estoy abierto a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador. Me encanta seguir aprendiendo</p>
+<p>Estoy abierto a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador, contáctame si tienes un proyecto donde pueda aportar con mis habilidades. Me encanta seguir aprendiendo</p>
 
 <p>🌱 Además continuo desarrollando mis conocimientos sobre <b>NestJS, Express, JavaScript, TypeScript</b></p>
 

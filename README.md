@@ -10,17 +10,10 @@
 
 <p>Estoy abierto a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador. Me encanta seguir aprendiendo</p>
 
-- 🌱 I’m currently learning **NestJS, Express**
-
-- 📫 Como contactarme **omaraguilalira@hotmail.com**
-
-<h4>¿Qué hago?</h4>
-- 🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend)
-<p>Estoy abierto a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador. Me encanta seguir aprendiendo</p>
-<p>🌱 Además continuo desarrollando mis conocimientos sobre **NestJS, Express, JavaScript, TypeScript**</p>
-
+<p>🌱 Además continuo desarrollando mis conocimientos sobre <b>NestJS, Express, JavaScript, TypeScript</b></p>
 
 <h4>Contacto</h4>
+
 📫 email: **omaraguilalira@hotmail.com**
 
 

@@ -5,8 +5,9 @@
 <p>Desde siempre me ha gustado crear cosas, sin embargo, no tengo la destreza física necesaria, afortunadamente hace unos años empecé a aprender programación y entonces me di cuenta que podía crear cosas si lograba comunicarle a la computadora lo que quería que hiciera.</p>
 
 <h4>¿Qué hago?</h4>
-🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend). Estoy a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador. Me encanta seguir aprendiendo
-🌱 Además continuo desarrollando mis conocimientos sobre **NestJS, Express, JavaScript, TypeScript**
+<p>🔭 Actualmente estoy trabajando en [Nutriflow](https://github.com/nutriflowhenry/nutri-flow-backend). Estoy a participar en proyectos que me permitan seguir avanzando en mi formación como desarrollador. Me encanta seguir aprendiendo</p>
+<p>🌱 Además continuo desarrollando mis conocimientos sobre **NestJS, Express, JavaScript, TypeScript**</p>
+
 
 <h4>Contacto</h4>
 📫 email: **omaraguilalira@hotmail.com**
